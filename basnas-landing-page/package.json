@@ -1,0 +1,27 @@
+{
+  "name": "basnas-landing-page",
+  "version": "1.0.0",
+  "description": "A modern landing page for BASNAS, showcasing company profile, services, testimonials, and contact information.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined yet.'"
+  },
+  "keywords": [
+    "landing page",
+    "BASNAS",
+    "company profile",
+    "web development"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://yourwebsite.com/basnas-landing-page",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/basnas-landing-page.git"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "BASNAS",
+  "mission": "To empower communities through sustainable development and social welfare initiatives.",
+  "services": [
+    {
+      "title": "Community Development",
+      "description": "Programs aimed at improving the quality of life in local communities."
+    },
+    {
+      "title": "Education Support",
+      "description": "Providing educational resources and scholarships to underprivileged students."
+    },
+    {
+      "title": "Health Services",
+      "description": "Offering medical assistance and health awareness programs."
+    },
+    {
+      "title": "Disaster Relief",
+      "description": "Immediate support and resources for communities affected by natural disasters."
+    }
+  ],
+  "contact": {
+    "email": "info@basnas.org",
+    "phone": "+62 21 1234 5678",
+    "address": "Jl. Contoh No. 123, Jakarta, Indonesia"
+  }
+}
